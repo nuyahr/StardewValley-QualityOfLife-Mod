@@ -1,0 +1,15 @@
+{
+  "Name": "Quality of Life",
+  "Author": "Nuya",
+  "Version": "1.0.0",
+  "Description": "A definitive QOL mod for Stardew Valley mobile and PC.",
+  "UniqueID": "Nuya.QualityOfLife",
+  "EntryDll": "QualityOfLife.dll",
+  "MinimumApiVersion": "4.0.0",
+  "Dependencies": [
+    {
+      "UniqueID": "spacechase0.GenericModConfigMenu",
+      "IsRequired": false
+    }
+  ]
+}
