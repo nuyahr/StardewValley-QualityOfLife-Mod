@@ -59,6 +59,4 @@ Este projeto foi desenvolvido com o auxílio de Ferramentas de Inteligência Art
 
 Se houver algum bug ou detalhe a ajustar, feedbacks são sempre muito bem-vindos! O objetivo deste mod é apenas trazer uma experiência mais confortável e acolhedora para o Stardew Valley. o Intuito não é Distorcer o a Gameplay, e sim dar uma QOL!
 
-📄 Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
+📄 Licença: Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
