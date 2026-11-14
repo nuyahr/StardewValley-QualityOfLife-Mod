@@ -65,5 +65,7 @@ Se houver algum bug ou detalhe a ajustar, feedbacks são sempre muito bem-vindos
 
 📄 Licença: Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
 
+⏺️ NexusMod: https://www.nexusmods.com/stardewvalley/mods/55513
+
 💖 Obrigado aos que baixarem! fiz pensando mais como melhorar o ritmo de cada pessoa, e talvez eu tenha conseguido~
 qualquer feedbacks é muito bem vindo!
