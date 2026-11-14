@@ -1,5 +1,7 @@
 # StardewValley-QualityOfLife-Mod
 
+![Logo do Mod]([URL_da_Imagem](https://staticdelivery.nexusmods.com/mods/1303/images/55513/55513-1794668439-2035903570.jpg))
+
 Quality of Life (QOL) for Stardew Valley (PC & Android)
 
 Um mod definitivo e leve de Qualidade de Vida para Stardew Valley (v1.6+ / SMAPI 4.0+), projetado para otimizar o ritmo de jogo, gerenciar o tempo, a estamina e a variedade atmosférica de forma equilibrada e totalmente customizável.
