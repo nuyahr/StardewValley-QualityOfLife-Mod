@@ -1,4 +1,4 @@
-# StardewValley QualityOfLife Mod
+# Stardew Valley - Quality Of Life
 
 ![Texto Alternativo](https://staticdelivery.nexusmods.com/mods/1303/images/55513/55513-1794668439-2035903570.jpg)
 
