@@ -56,16 +56,27 @@ Extraia a pasta do mod dentro do seu diretório Mods (funciona de forma idêntic
 
 O código-fonte completo (ModConfig.cs, ModEntry.cs e manifest.json) é totalmente padronizado e limpo em inglês. Sinta-se à vontade para inspecionar, estudar ou adaptar o código!
 
-⚠️ Nota do Desenvolvedor & Transparência:
+⚠️ Nota do Desenvolvedor & Transparência
+
 Este projeto foi desenvolvido com o auxílio de Ferramentas de Inteligência Artificial (IA), uma vez que estou no começo da minha jornada na programação e aprendendo a programar. Todo o código foi testado, revisado e validado para garantir estabilidade, segurança e bom funcionamento no jogo.
 
 Se houver algum bug ou detalhe a ajustar, feedbacks são sempre muito bem-vindos! O objetivo deste mod é apenas trazer uma experiência mais confortável e acolhedora para o Stardew Valley. o Intuito não é Distorcer o a Gameplay, e sim dar uma QOL!
 
 ⚠️ O MOD foi testado na versão 1.6.15 do Stardew Valley.
 
-📄 Licença: Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
+📄 Licença
 
-⏺️ NexusMod: https://www.nexusmods.com/stardewvalley/mods/55513
+Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
+
+⏺️ Nexus Mod: https://www.nexusmods.com/stardewvalley/mods/55513
 
 💖 Obrigado aos que baixarem! fiz pensando mais como melhorar o ritmo de cada pessoa, e talvez eu tenha conseguido~
+
 qualquer feedbacks é muito bem vindo!
+
+📝 Nota
+
+O MOD foi feito não de forma séria, e sim em um momento que estive jogando e frustrado com a mecânica de Energia/Stamina, e o Tempo/Time do jogo ser extremamente rapido de mais. então como estou no começo da minha jornada de Programador, decidi tentar fazer o MOD com a AI pra ter uma experiência de como seria fazer um MOD dessa forma. porém se o MOD for bem recebido posso sim ir atualizando BUGs e etc, pós é provável que tenha sim. porém entretanto, eu mesmo não utilizo MODs por preferir a experiência Vanilla dos Jogos.
+muito obrigado aos que baixarem 👋🏻✨
+
+Feedbacks são bem vindos, sua língua/idioma não é uma barreira na internet☝🏻✨
